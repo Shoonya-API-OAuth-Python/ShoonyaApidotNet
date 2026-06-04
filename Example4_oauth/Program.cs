@@ -18,7 +18,7 @@ namespace NorenRestSample
 
         public const string endPoint = "https://rama.kambala.co.in/NorenWClientTP/";
         public const string oauth_url = "https://rama.kambala.co.in/NorenWeb2.0/authorize/oauth";
-        public const string wsendpoint = "wss://p9betanoren.phillipcapital.in/NorenWSTP/";
+        public const string wsendpoint = "wss://rama.kambala.co.in/NorenWSTP/";
         public const string uid = "LEVELUP";
         public const string actid = "LEVELUP";
         public const string pwd = "Abc@1234";
