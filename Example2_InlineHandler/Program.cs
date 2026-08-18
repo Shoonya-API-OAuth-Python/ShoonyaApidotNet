@@ -24,8 +24,8 @@ namespace dotNetExample_InlineHandler
     {
         #region dev  credentials
 
-        public const string endPoint = "";
-        public const string wsendpoint = "";
+        public const string endPoint = "https://api.shoonya.com/NorenWClientAPI/";
+        public const string wsendpoint = "wss://api.shoonya.com/NorenWSAPI/";
         public const string uid = "";
         public const string actid = "";
         public const string pwd = "";
