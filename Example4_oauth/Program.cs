@@ -18,7 +18,7 @@ namespace NorenRestSample
 
         public const string endPoint = "https://api.shoonya.com/NorenWClientAPI/";
         public const string oauth_url = " https://api.shoonya.com/OAuthlogin/authorize/oauth";
-        public const string wsendpoint = 'wss://api.shoonya.com/NorenWSAPI/";
+        public const string wsendpoint = "wss://api.shoonya.com/NorenWSAPI/";
         public const string uid = "LEVELUP";
         public const string actid = "LEVELUP";
         public const string pwd = "Abc@1234";
