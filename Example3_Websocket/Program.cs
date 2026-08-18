@@ -91,8 +91,8 @@ namespace dotNetExample
     {
         #region dev  credentials
 
-        public static string endPoint = "";
-        public static string wsendpoint = "";
+        public static string endPoint = "https://api.shoonya.com/NorenWClientAPI";
+        public static string wsendpoint = "wss://api.shoonya.com/NorenWSAPI";
         public static string uid = "";
         public static string actid = "";
         public static string pwd = "";
